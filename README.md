@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Yashwanth K
 
-<!--
-**yashwanth0098/yashwanth0098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Scientist | MLOps Enthusiast | Cloud & Deployment  
+🎓 M.Tech Data Science & AI – PES University  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Build end-to-end ML projects (training → deployment → monitoring)
+- Design MLOps pipelines using Docker, Terraform, CI/CD
+- Work with NLP, Regression, Classification, Time Series
+
+---
+
+## 🛠 Tech Stack
+Python | SQL | Pandas | Scikit-learn | MLflow  
+FastAPI | Docker | Kubernetes | Terraform  
+AWS (EC2, ECR, EKS) | GitHub Actions  
+
+---
+
+## 📌 Featured Projects
+⬇️ Check pinned repositories below
