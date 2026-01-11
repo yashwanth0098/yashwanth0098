@@ -128,7 +128,7 @@ Proven ability to collaborate with product and engineering teams to ensure ML sy
 
 ##  Personal Projects
 
-### 🏦 Bank Marketing – Term Deposit Prediction
+### Bank Marketing – Term Deposit Prediction
 - Built a binary classification model to predict customer subscription behavior  
 - Performed EDA, preprocessing, and feature engineering  
 - Models: Logistic Regression, Decision Tree, Random Forest, XGBoost  
@@ -185,13 +185,5 @@ Proven ability to collaborate with product and engineering teams to ensure ML sy
 - Hindi  
 - Tamil  
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwanth0098&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanth0098&layout=compact&theme=radical)
-
----
 
 ![Profile Views](https://profile-counter.glitch.me/yashwanth0098/count.svg)
