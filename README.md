@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Yashwanth Kumar K**
 
-### Data Scientist | Machine Learning Engineer | MLOps Engineer
+###  Data Scientist |AI Engineer | MLOps Engineer | Generative AI | Agentic AI | Machine Learning Engineer
 
 📍 Bangalore, India  
 📧 yashwanth0098@gmail.com  
@@ -12,16 +12,15 @@
 
 ## Summary
 
-Results-driven **Data Scientist and MLOps Engineer** with hands-on experience delivering **end-to-end machine learning solutions** from development to production.
+I am a **Data Scientist** and **MLOps Engineer** with hands-on experience designing, developing, deploying, and operating production-grade Machine Learning and Generative AI solutions. My expertise spans the complete AI lifecycle—from data engineering and model development to deployment, monitoring, evaluation, and continuous optimization.
 
-Strong expertise in **building, deploying, monitoring, and maintaining production ML systems**, with a focus on:
-- Model performance tracking  
-- Drift detection  
-- Automated retraining pipelines  
+My current work focuses on building enterprise AI systems using Retrieval-Augmented Generation (RAG), Agentic AI, Model Context Protocol (MCP), AI workflow orchestration, and AgentOps to develop scalable, context-aware, observable, and production-ready intelligent applications.
 
-Experienced in **experiment tracking and model lifecycle management using MLflow**, and deploying scalable ML services using **Docker, FastAPI, AWS, and Azure**.
+I have experience developing and orchestrating AI agent workflows, integrating enterprise tools through MCP, implementing retrieval pipelines, monitoring AI system performance, and applying AgentOps practices to improve the reliability, observability, and lifecycle management of AI agents in production environments.
 
-Proven ability to collaborate with product and engineering teams to ensure ML systems meet **operational KPIs** such as accuracy, latency, reliability, and uptime—while aligning solutions with **real-world business objectives**.
+My professional experience spans retail, e-commerce, and enterprise domains, where I have delivered machine learning solutions involving predictive analytics, recommendation systems, time-series forecasting, anomaly detection, natural language processing, and deep learning to solve complex business challenges.
+
+I am committed to building reliable, maintainable, and scalable AI platforms by combining Machine Learning, Generative AI, **AgentOps**, MLOps, and AI orchestration to deliver intelligent systems that perform effectively in production.
 
 ---
 
@@ -186,4 +185,4 @@ Proven ability to collaborate with product and engineering teams to ensure ML sy
 - Tamil  
 
 
-![Profile Views](https://profile-counter.glitch.me/yashwanth0098/count.svg)
+
